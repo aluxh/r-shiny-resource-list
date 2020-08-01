@@ -28,7 +28,7 @@ The following is a list of useful resources for building Shiny Apps.
 * [Advanced R](https://adv-r.hadley.nz/index.html)
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
 * [Mastering Shiny](https://mastering-shiny.org)
-* [R pipeline with Drake](https://books.ropensci.org/drake/
+* [R pipeline with Drake](https://books.ropensci.org/drake/)
 * [Stat 545: Data wrangling, exploration, and analysis with R](https://stat545.com/)
 * [Stat 5101 Lecture Notes](http://www.stat.umn.edu/geyer/5101/notes/)
 * [Stat 3701 Lecture Notes](http://www.stat.umn.edu/geyer/3701/notes/)
