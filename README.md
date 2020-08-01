@@ -24,8 +24,15 @@ The following is a list of useful resources for building Shiny Apps.
 
 ### Books
 
+* [R for Data Science](https://r4ds.had.co.nz/)
+* [Advanced R](https://adv-r.hadley.nz/index.html)
+* [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
 * [Mastering Shiny](https://mastering-shiny.org)
 * [Stat 545: Data wrangling, exploration, and analysis with R](https://stat545.com/)
+* [Stat 5101 Lecture Notes](http://www.stat.umn.edu/geyer/5101/notes/)
+* [Stat 3701 Lecture Notes](http://www.stat.umn.edu/geyer/3701/notes/)
+* [Stat 8054 Lecture Notes](http://www.stat.umn.edu/geyer/8054/notes/)
+* [Modern R with Tidyverse](https://b-rodrigues.github.io/modern_R/)
 
 ### Shiny Apps built by others
 
