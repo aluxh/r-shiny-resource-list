@@ -25,6 +25,7 @@ The following is a list of useful resources for building Shiny Apps.
 ### Books
 
 * [Mastering Shiny](https://mastering-shiny.org)
+* [Stat 545: Data wrangling, exploration, and analysis with R](https://stat545.com/)
 
 ### Shiny Apps built by others
 
