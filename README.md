@@ -7,6 +7,9 @@ There are already too many out there, and it can be difficult to scan through th
   * [HTML Widgets](#HTML-Widgets)
 * [R's List](#R's-list)
   * [Awesome R lists from Github](#Awesome-R-list-from-Github)
+* Website using RMarkdown and Git Pages
+  * [Github and Rstudio](https://resources.github.com/whitepapers/github-and-rstudio/)
+  * [RMarkdown Website Tutorial](https://jules32.github.io/rmarkdown-website-tutorial/)
 
 ## Shiny's list
 
