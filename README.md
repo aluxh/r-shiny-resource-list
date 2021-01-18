@@ -1,6 +1,6 @@
 # R and Shiny Resources List
 
-There are already too many out there, and it can be difficult to scan through the starred list to find them. So, I'm just compiling a list linking to all these awesome lists. I might add some of my favourite list at the bottom, to have faster access to them.
+There  are too many list out there, and it's difficult to scan through the starred list to find them. Hence, I decided to create a list linking to all of these awesome lists out there. In between, I'll include some of my favourite links or books, to have faster access to them.
 
 * [Books](#Books)
 * [Shiny's List](#Shiny's-list)
