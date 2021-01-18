@@ -2,6 +2,7 @@
 
 There are already too many out there, and it can be difficult to scan through the starred list to find them. So, I'm just compiling a list linking to all these awesome lists. I might add some of my favourite list at the bottom, to have faster access to them.
 
+* [Books](#Books)
 * [Shiny's List](#Shiny's-list)
   * [Awesome Shiny lists from Github](#Awesome-Shiny-lists-from-Github)
   * [HTML Widgets](#HTML-Widgets)
@@ -10,6 +11,20 @@ There are already too many out there, and it can be difficult to scan through th
 * Website using RMarkdown and Git Pages
   * [Github and Rstudio](https://resources.github.com/whitepapers/github-and-rstudio/)
   * [RMarkdown Website Tutorial](https://jules32.github.io/rmarkdown-website-tutorial/)
+
+## Books
+
+* [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
+* [R for Data Science](https://r4ds.had.co.nz/)
+* [Advanced R](https://adv-r.hadley.nz/index.html)
+* [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
+* [Mastering Shiny](https://mastering-shiny.org)
+* [R pipeline with Drake](https://books.ropensci.org/drake/)
+* [Stat 545: Data wrangling, exploration, and analysis with R](https://stat545.com/)
+* [Stat 5101 Lecture Notes](http://www.stat.umn.edu/geyer/5101/notes/)
+* [Stat 3701 Lecture Notes](http://www.stat.umn.edu/geyer/3701/notes/)
+* [Stat 8054 Lecture Notes](http://www.stat.umn.edu/geyer/8054/notes/)
+* [Modern R with Tidyverse](https://b-rodrigues.github.io/modern_R/)
 
 ## Shiny's list
 
@@ -24,19 +39,6 @@ The following is a list of useful resources for building Shiny Apps.
 ### HTML Widgets
 
 * [billboarder package](https://github.com/dreamRs/billboarder) by [dreamRs](https://github.com/dreamRs): This package allows you to use [billboard.js](https://naver.github.io/billboard.js/) based on D3 v4+
-
-### Books
-
-* [R for Data Science](https://r4ds.had.co.nz/)
-* [Advanced R](https://adv-r.hadley.nz/index.html)
-* [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
-* [Mastering Shiny](https://mastering-shiny.org)
-* [R pipeline with Drake](https://books.ropensci.org/drake/)
-* [Stat 545: Data wrangling, exploration, and analysis with R](https://stat545.com/)
-* [Stat 5101 Lecture Notes](http://www.stat.umn.edu/geyer/5101/notes/)
-* [Stat 3701 Lecture Notes](http://www.stat.umn.edu/geyer/3701/notes/)
-* [Stat 8054 Lecture Notes](http://www.stat.umn.edu/geyer/8054/notes/)
-* [Modern R with Tidyverse](https://b-rodrigues.github.io/modern_R/)
 
 ### Shiny Apps built by others
 
