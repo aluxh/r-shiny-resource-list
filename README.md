@@ -14,12 +14,15 @@ There  are too many list out there, and it's difficult to scan through the starr
 
 ## Books
 
+* [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
 * [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
-* [R for Data Science](https://r4ds.had.co.nz/)
+* [R for Data Science](https://r4ds.hadley.nz/)
 * [Advanced R](https://adv-r.hadley.nz/index.html)
+* [Applied Statistics with R](https://book.stat420.org/)
+* [Causal Inference in R](https://www.r-causal.org/)
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
 * [Mastering Shiny](https://mastering-shiny.org)
-* [R pipeline with Drake](https://books.ropensci.org/drake/)
+* [The {targets} R package user manual](https://books.ropensci.org/targets/)
 * [Stat 545: Data wrangling, exploration, and analysis with R](https://stat545.com/)
 * [Stat 5101 Lecture Notes](http://www.stat.umn.edu/geyer/5101/notes/)
 * [Stat 3701 Lecture Notes](http://www.stat.umn.edu/geyer/3701/notes/)
