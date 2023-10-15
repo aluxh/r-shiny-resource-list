@@ -29,9 +29,35 @@ There  are too many list out there, and it's difficult to scan through the starr
 * [Stat 8054 Lecture Notes](http://www.stat.umn.edu/geyer/8054/notes/)
 * [Modern R with Tidyverse](https://b-rodrigues.github.io/modern_R/)
 
+## R's list
+
+The following is a list of useful resources for writing R applications
+
+### R Workshops/Tutorials
+
+#### Posit::Conf(2023)
+* [Advanced Tidymodels](https://workshops.tidymodels.org/)
+* [Deploy and Maintain Models with Vetiver](https://posit-conf-2023.github.io/vetiver/)
+* [Casual Inference with R](https://r-causal.github.io/causal_workshop_website/) -- [Repo](https://github.com/r-causal/causal_inference_r_workshop)
+* [DevOps for Data Scientists](https://posit-conf-2023.github.io/devops/) -- [Repo](https://github.com/posit-conf-2023/devops)
+* [Package Development Masterclass](https://github.com/posit-conf-2023/pkg-dev-masterclass)
+* [Time-Series forecasting](https://posit-conf-2023.github.io/forecasting/)
+
+
+### Awesome R lists from Github
+
+* [Awesome R](https://github.com/qinwf/awesome-r/): Quite a complete list of popular R packages for many things from Data Manipulation, Parallel Computing, Language API, Database Management, Machine Learning, NLP, Bayesian, Optimization and etc.. A more web browser friendly website can be found in https://awesome-r.com/index.html
+
+
+
 ## Shiny's list
 
 The following is a list of useful resources for building Shiny Apps.
+
+### Workshops/Tutorials
+
+* [Shiny in Production: Tools and Techniques](https://posit-conf-2023.github.io/shiny-r-prod/) -- [Repo](https://github.com/posit-conf-2023/shiny-r-prod)
+* [Getting Started with Shiny in Python](https://posit-dev.github.io/shiny-python-workshop-2023/) -- [Repo](https://github.com/posit-dev/shiny-python-workshop-2023)
 
 ### Awesome Shiny lists from Github
 
@@ -51,10 +77,3 @@ The following is a list of useful resources for building Shiny Apps.
 * [Real Estate Market Forecasting and Analytics](https://github.com/ScientAnalytics/shinyHome)
 * [Automated Forecasting with Shiny](https://github.com/pmaier1971/AutomatedForecastingWithShiny)
 
-## R's list
-
-The following is a list of useful resources for writing R applications
-
-### Awesome R lists from Github
-
-* [Awesome R](https://github.com/qinwf/awesome-r/): Quite a complete list of popular R packages for many things from Data Manipulation, Parallel Computing, Language API, Database Management, Machine Learning, NLP, Bayesian, Optimization and etc.. A more web browser friendly website can be found in https://awesome-r.com/index.html
