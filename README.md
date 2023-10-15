@@ -35,6 +35,7 @@ There are too many awesome lists out there and it is time-consuming to scan thro
 * [DevOps for Data Scientists](https://posit-conf-2023.github.io/devops/) -- [Repo](https://github.com/posit-conf-2023/devops)
 * [Package Development Masterclass](https://github.com/posit-conf-2023/pkg-dev-masterclass)
 * [Time-Series forecasting](https://posit-conf-2023.github.io/forecasting/)
+* [UC Business Analytics R Programming Guide](https://uc-r.github.io/)
 
 ### Awesome R lists from Github
 
@@ -78,3 +79,4 @@ There are too many awesome lists out there and it is time-consuming to scan thro
 ## Deep Learning
 
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
+* [Dive into Deep Learning](https://d2l.ai/index.html)
