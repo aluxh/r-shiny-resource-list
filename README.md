@@ -1,19 +1,14 @@
-# R and Shiny Resources List
+# R and Shiny Resource Lists
 
-There  are too many list out there, and it's difficult to scan through the starred list to find them. Hence, I decided to create a list linking to all of these awesome lists out there. In between, I'll include some of my favourite links or books, to have faster access to them.
+There are too many awesome lists out there and it is time-consuming to scan through the starred list to find them. Therefore, creating this list linking some of those awesome lists out there, and include some of my favourite links, apps and books for quicker access.
 
 * [Books](#Books)
-* [Shiny's List](#Shiny's-list)
-  * [Awesome Shiny lists from Github](#Awesome-Shiny-lists-from-Github)
-  * [HTML Widgets](#HTML-Widgets)
 * [R's List](#R's-list)
-  * [Awesome R lists from Github](#Awesome-R-list-from-Github)
-* Website using RMarkdown and Git Pages
-  * [Github and Rstudio](https://resources.github.com/whitepapers/github-and-rstudio/)
-  * [RMarkdown Website Tutorial](https://jules32.github.io/rmarkdown-website-tutorial/)
+* [Shiny's List](#Shiny's-list)
 
 ## Books
 
+* [Tidy Modeling with R](https://www.tmwr.org/)
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
 * [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
 * [R for Data Science](https://r4ds.hadley.nz/)
@@ -31,33 +26,36 @@ There  are too many list out there, and it's difficult to scan through the starr
 
 ## R's list
 
-The following is a list of useful resources for writing R applications
+### Workshops/Tutorials
 
-### R Workshops/Tutorials
-
-#### Posit::Conf(2023)
 * [Advanced Tidymodels](https://workshops.tidymodels.org/)
 * [Deploy and Maintain Models with Vetiver](https://posit-conf-2023.github.io/vetiver/)
+  * [Adding explainers into the metadata in Vetiver model](https://github.com/juliasilge/vetiverdemo/blob/main/attrition-explain/fairness-metrics.qmd)
 * [Casual Inference with R](https://r-causal.github.io/causal_workshop_website/) -- [Repo](https://github.com/r-causal/causal_inference_r_workshop)
 * [DevOps for Data Scientists](https://posit-conf-2023.github.io/devops/) -- [Repo](https://github.com/posit-conf-2023/devops)
 * [Package Development Masterclass](https://github.com/posit-conf-2023/pkg-dev-masterclass)
 * [Time-Series forecasting](https://posit-conf-2023.github.io/forecasting/)
 
-
 ### Awesome R lists from Github
 
 * [Awesome R](https://github.com/qinwf/awesome-r/): Quite a complete list of popular R packages for many things from Data Manipulation, Parallel Computing, Language API, Database Management, Machine Learning, NLP, Bayesian, Optimization and etc.. A more web browser friendly website can be found in https://awesome-r.com/index.html
 
+### Bots/Misc
 
+* [Keeping Your Team Informed Where the Conversations Happen – Using Anomaly Detection to Publish Custom Slack Bot Notifications Using R](https://mmdatasci.com/portfolio-item/building-a-slack-bot-with-r/)
+* [Tidymodels DVC Mashup - Using Github Actions and Data Version Control for ModelOps in R](https://loppsided.blog/posts/2020-10-26-tidymodels-dvc-mashup/)
+
+### Machine Learning
+* [A Probabilistic Comparison of Commonly Used Interest Measures for Association Rules](https://mhahsler.github.io/arules/docs/measures)
+* [New Probabilistic Interest Measures for Association Rules](https://arxiv.org/pdf/0803.0966.pdf)
 
 ## Shiny's list
-
-The following is a list of useful resources for building Shiny Apps.
 
 ### Workshops/Tutorials
 
 * [Shiny in Production: Tools and Techniques](https://posit-conf-2023.github.io/shiny-r-prod/) -- [Repo](https://github.com/posit-conf-2023/shiny-r-prod)
 * [Getting Started with Shiny in Python](https://posit-dev.github.io/shiny-python-workshop-2023/) -- [Repo](https://github.com/posit-dev/shiny-python-workshop-2023)
+* [Rhino R Package Tutorial: Build Your First Rhino App](https://appsilon.com/rhino-r-package-tutorial/)
 
 ### Awesome Shiny lists from Github
 
@@ -77,3 +75,6 @@ The following is a list of useful resources for building Shiny Apps.
 * [Real Estate Market Forecasting and Analytics](https://github.com/ScientAnalytics/shinyHome)
 * [Automated Forecasting with Shiny](https://github.com/pmaier1971/AutomatedForecastingWithShiny)
 
+## Deep Learning
+
+* [Practical Deep Learning for Coders](https://course.fast.ai/)
