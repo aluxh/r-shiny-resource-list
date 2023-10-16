@@ -45,6 +45,7 @@ There are too many awesome lists out there and it is time-consuming to scan thro
 
 * [Keeping Your Team Informed Where the Conversations Happen – Using Anomaly Detection to Publish Custom Slack Bot Notifications Using R](https://mmdatasci.com/portfolio-item/building-a-slack-bot-with-r/)
 * [Tidymodels DVC Mashup - Using Github Actions and Data Version Control for ModelOps in R](https://loppsided.blog/posts/2020-10-26-tidymodels-dvc-mashup/)
+* [PASS AROUND DATA BETWEEN SHINY MODULES WITH R6](https://jiwanheo.rbind.io/post/2022-02-06-pass-around-data-between-shiny-modules-with-r6/)
 
 ### Machine Learning
 * [A Probabilistic Comparison of Commonly Used Interest Measures for Association Rules](https://mhahsler.github.io/arules/docs/measures)
